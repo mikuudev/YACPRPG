@@ -5,11 +5,11 @@
   "enemies": [
     {
       "name": "Mysterious Man",
-      "description": "A mysterious man that appeared in your office. You wonder what he wants.",
+      "description": "A mysterious man that appeared in your office. He suddenly throws the table and pulls his fists out.",
       "type": 1,
-      "health": 250,
+      "health": 100,
       "armor": 50,
-      "power": 50,
+      "power": 10,
       "inventory": []
     }
   ]
