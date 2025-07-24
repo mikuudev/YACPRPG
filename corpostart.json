@@ -1,0 +1,15 @@
+{
+  "name": "Your Office",
+  "description": "It's your office. You're working overtime today.",
+  "ndoors": 1,
+  "enemies": [
+    {
+      "name": "Mysterious Man",
+      "description": "A mysterious man that appeared in your office. You wonder what he wants.",
+      "health": 250,
+      "armor": 50,
+      "power": 50,
+      "inventory": []
+    }
+  ]
+}
